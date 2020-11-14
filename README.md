@@ -4,7 +4,7 @@ This project has been created to configure Prettier, Eslint and Eslint plugins f
 
 Date: 14th November, 2020
 
-Credits: [Complete React v5 course by Biran Holt](https://frontendmasters.com/courses/complete-react-v5/) on frontend masters.
+Credits: [Complete React v5 course by Brian Holt](https://frontendmasters.com/courses/complete-react-v5/) on frontend masters.
 
 ## How to use:
 - clone the repository by running `git clone https://github.com/anuk79/prettier-eslint-configuration-for-react.git`
