@@ -1,6 +1,7 @@
 # prettier-eslint-configuration-for-react
 
-This project has been created to configure Prettier, Eslint and Eslint plugins for a React project from scratch.
+This project has been created to configure Prettier, Eslint and Eslint plugins for a React project from scratch. It is the repository referenced in the 
+[step by step written tutorial on this topic](https://prettier-eslint-configuration-for-react.netlify.app/)
 
 Date: 14th November, 2020
 
